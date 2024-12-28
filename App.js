@@ -1,3 +1,3 @@
-import data from "./data.js";
+import Build from "./Build.js";
 console.log(data('My', 'App'));
 
