@@ -1,13 +1,13 @@
 import data from "./data.js";
-function task()
+export default function Build()
 {
   while (true)
   {
-    var bridge += data('string', '-compilation');
+    var model += data('string', '-compilation');
     if data('string', '-compilation') == 'string-compilation'
     {
       break;
     }
   }
-  return bridge;
+  return model;
 }
