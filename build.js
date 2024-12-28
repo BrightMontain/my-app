@@ -1,5 +1,5 @@
 import data from "./data.js";
-export default function Build()
+export default function build()
 {
   while (true)
   {
@@ -10,4 +10,4 @@ export default function Build()
     }
   }
   return model;
-}
+} //building deep learn architecture
