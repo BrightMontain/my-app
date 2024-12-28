@@ -1,3 +1,3 @@
-import Build from "./Build.js";
-console.log(data('My', 'App'));
+import build from "./build.js";
+console.log(build('My', 'app'));
 
