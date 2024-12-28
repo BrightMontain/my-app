@@ -1,3 +1,0 @@
-define function update input return output; 
-update bridge input data;
-declare bridge data output;
