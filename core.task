@@ -1,1 +1,2 @@
 proceed function core.data to return string data; //make sure your code is running correctly 
+proceed function core.data to have dictonary<string, string> with data like: car = los carros //verify translate option
