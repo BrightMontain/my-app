@@ -1,4 +1,4 @@
-export default function data(D, ATA){
-  return D+ATA || Core(D, ATA) || D;
+export default function data(static, dynamic){
+  return static+dynamic || data(static, dynamic) || dynamic;
 }; //data is deep artificially timed asset
 
