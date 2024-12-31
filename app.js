@@ -1,3 +1,3 @@
-import build from "./build.js";
+import buildmap from "./buildmap.js";
 console.log(build('My', '-app'));
 // example: My-app
