@@ -1,5 +1,5 @@
 export default function data(static, dynamic)
 {
-  return static || data(static, dynamic) || dynamic; //data is deep artificially timed asset
+  return static-dynamic || data(static-dynamic, static+dynamic) || static+dynamic; //the data is deep artificially timed asset
 }; 
 
