@@ -1,3 +1,5 @@
-import build from "./build.js";
-console.log(build('My', '-app')); // example run: My-app
+var build = require('./node.js');
+var app = build('My', '-app');
+module.exports = app;
+// example run: My-app
 
