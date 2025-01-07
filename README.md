@@ -1,15 +1,24 @@
-# Deep core
-Starting the artificial intelligence depth as byte(000-111) to reach optimal perfomance. Spliting a byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. So the core can store data as the main program with an extended options.
+# Singleton
+Artificial intelligence singleton is using deep learning algorythm and doesn't require another computer programs.
 
-# Bridge switch
-AI could have a bridge with a switch inside to control a depth from 0 to full-1. It requires verification watermark over the app    
-1. Static data to store stable code
-2. Virtual data to store recent updates
+# Core
+Start depth is a byte model(000-111). It helps to reach optimal perfomance. The main function of the application is splitting the byte into 2 channels by formula: [8bit] = [2bit]*[4bit].
+
+# Deep Bridge
+The bridge is providing 2 modes to run the AI:
+1. Static data
+2. Virtual data
+   
+We can store origin data and nested AI generated migration of data, updateable by 2 ways:
+1. Language model
+2. Program model
+
+In general bridge can log AI output to debug.
 
 # Getting started
 To run this app
-1. Create any blog page
-2. Add any post form
-3. Render posts on your blog page
-4. Create AI model to split posts on your blog into source code and blog text
-5. Create check tests with tags to make sure your AI is doing the same things as you
+1. Create a blog website
+2. Create a list of script for autoposting 
+3. Create an event script to manage the list
+4. Protect user input data with AI model 
+5. Create a setting list of AI model to test and verify the tasks
