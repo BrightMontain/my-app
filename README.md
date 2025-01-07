@@ -2,7 +2,7 @@
 Starting the artificial intelligence depth as byte to reach optimal perfomance. Spliting a byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. So the core can store data as the main program with an extended options.
 
 # Bridge switch
-Bridge could have a switch as controller with 
+AI could have a bridge with a switch inside to control a depth from 0 to full-1. It requires verification watermark over the app    
 1. Static data to store its stable code
 2. Virtual data to store its recent updates
 
