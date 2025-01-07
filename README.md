@@ -1,6 +1,5 @@
 # Deep core
-This artificial intelligence model downgraded to byte to reach optimal perfomance as binary tripple power bound of bits: [000-111] = (2^3=8). 
-The app is splitting the byte into 2 channels [8bit] = [2bit]*[4bit] and structed model can stable it.
+Starting the artificial intelligence depth as byte to reach optimal perfomance. Spliting a byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. So the core can store data as the main program with an extended options.
 
 # Bridge switch
 Bridge could have a switch as controller with 
