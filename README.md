@@ -1,5 +1,5 @@
 # Deep core
-Starting the artificial intelligence depth as byte to reach optimal perfomance. Spliting a byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. So the core can store data as the main program with an extended options.
+Starting the artificial intelligence depth as byte(000-111) to reach optimal perfomance. Spliting a byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. So the core can store data as the main program with an extended options.
 
 # Bridge switch
 AI could have a bridge with a switch inside to control a depth from 0 to full-1. It requires verification watermark over the app    
