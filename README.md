@@ -3,8 +3,8 @@ Starting the artificial intelligence depth as byte to reach optimal perfomance. 
 
 # Bridge switch
 AI could have a bridge with a switch inside to control a depth from 0 to full-1. It requires verification watermark over the app    
-1. Static data to store its stable code
-2. Virtual data to store its recent updates
+1. Static data to store stable code
+2. Virtual data to store recent updates
 
 # Getting started
 To run this app
