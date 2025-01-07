@@ -8,5 +8,5 @@ export default function build(preset, querry)
       break;
     }
   }
-  return data(preset, querry);
+  return data(preset, querry); //return user data
 } 
