@@ -13,7 +13,7 @@ We can store origin data and nested AI generated migration of data, updateable b
 1. Language model
 2. Program model
 
-In general bridge can log AI output to debug.
+In general, bridge depth can log all AI output to debug.
 
 # Getting started
 To run this app
