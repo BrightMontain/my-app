@@ -2,7 +2,7 @@
 Artificial intelligence singleton is using deep learning algorythm and doesn't require another computer programs.
 
 # Core
-Start depth is a byte model(000-111). It helps to reach optimal perfomance. The main function of the application is splitting the byte into 2 channels by formula: [8bit] = [2bit]*[4bit].
+Start depth is a byte model(000-111). It helps to reach optimal perfomance. The main function of the application is splitting the byte into 2 channels by formula: [8bit] = [2bit]*[4bit]. Checksumm does ["incorrect 0", 1, 2, 3, 4, 5, 6, 7, 8, "on map 9"].
 
 # Deep Bridge
 The bridge is providing 2 modes to run the AI:
